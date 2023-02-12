@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header fa icons */
+.fa-icons
+{
+    margin: 3px;
+    padding: 3px;
+}
+.fa-icons .bi
+{
+margin:5px;
+}
+/* logo */
+.logo-img
+{
+    height: 70px;
+    width: 100px;
+    margin-top: 10px;
+}
+/* navbar */
+.navbar-nav a
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    color:black;
+    margin:10px;
+}
+.navbar
+{
+    background-color: none !important;
+}
+.navbar-collapse
+{
+    margin-right: -10px;
+}
+/* footer code */
+.footer-btn
+{
+    background-color: #632a71;
+}
+.footer-class
+{
+    background-color: #000 !important;
+    color: white !important;
+}
+.services-footer-section p a
+{
+    color: #fff;
+}
+/* padding  form all sections */
+.section
+{
+    padding:30px 100px;
+}
+/* padding  form all sections */
+/* section-1 css code video */
+
+/* section-1 css code video */
+/* section-2 css code image hover */
+.cards {
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.cards:hover {
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
+#section-2
+{
+    background-color: whitesmoke;
+}
+/* section-2 css code image hover */
